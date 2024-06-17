@@ -1,0 +1,7 @@
+org.hyperskill.calculator.tip.test.Tip_Calculator-task-androidTest-0 /home/rennie/AndroidStudioProjects/Tip Calculator1/Tip Calculator/task/build/generated/res/resValues/androidTest/debug
+org.hyperskill.calculator.tip.test.Tip_Calculator-task-androidTest-1 /home/rennie/AndroidStudioProjects/Tip Calculator1/Tip Calculator/task/build/generated/res/rs/androidTest/debug
+org.hyperskill.calculator.tip.test.Tip_Calculator-task-mergeDebugAndroidTestResources-2 /home/rennie/AndroidStudioProjects/Tip Calculator1/Tip Calculator/task/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+org.hyperskill.calculator.tip.test.Tip_Calculator-task-mergeDebugAndroidTestResources-3 /home/rennie/AndroidStudioProjects/Tip Calculator1/Tip Calculator/task/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+org.hyperskill.calculator.tip.test.Tip_Calculator-task-merged_res-4 /home/rennie/AndroidStudioProjects/Tip Calculator1/Tip Calculator/task/build/intermediates/merged_res/debugAndroidTest
+org.hyperskill.calculator.tip.test.Tip_Calculator-task-androidTest-5 /home/rennie/AndroidStudioProjects/Tip Calculator1/Tip Calculator/task/src/androidTest/res
+org.hyperskill.calculator.tip.test.Tip_Calculator-task-androidTestDebug-6 /home/rennie/AndroidStudioProjects/Tip Calculator1/Tip Calculator/task/src/androidTestDebug/res

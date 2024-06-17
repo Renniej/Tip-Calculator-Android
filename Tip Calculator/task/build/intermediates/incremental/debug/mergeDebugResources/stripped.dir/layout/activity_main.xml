@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/edit_text"
+        android:inputType="numberDecimal"
+        android:hint="Insert Bill Value"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+    </EditText>
+
+
+    <SeekBar
+        android:id="@+id/seek_bar"
+        android:max="100"
+        android:progress="15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </SeekBar>
+
+    <TextView
+        android:id="@+id/bill_value_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></TextView>
+
+    <TextView
+        android:id="@+id/tip_percent_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ></TextView>
+
+    <TextView
+        android:id="@+id/tip_amount_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ></TextView>
+
+
+
+</LinearLayout>
